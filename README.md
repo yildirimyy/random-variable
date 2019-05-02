@@ -1,13 +1,13 @@
-# RASSAL DEGİSKENLER
+# RASTGELE DEGİSKENLER
 **Probability Density Function - Probability Mass Function**
 
-* Rassal Değişkenler: Rassal deney ile  çalışırken, deneyin çıktılarının ölçümü ya da sayısal özellikleri ile ilgilenir. 
+* Rastgele Değişkenler: Rastgele deney ile  çalışırken, deneyin çıktılarının ölçümü ya da sayısal özellikleri ile ilgilenir. 
 Örneğin;
     * Bir sınıftaki öğrencilerin boyları ya da kiloları
     * Doktor sırası bekleyen hastaların bekleme süreleri
     * 1 saat içerisinde bir mağazaya giren kişi sayısı 
-* Rassal Değişkenler büyük harfler ile gösterilir. 
-* Rassal Değişkenler **"AYRIK"** ve **"SÜREKLİ"** olmak üzere** iki gruba** ayrılır. 
+* Rastgele Değişkenler büyük harfler ile gösterilir. 
+* Rastgele Değişkenler **"AYRIK"** ve **"SÜREKLİ"** olmak üzere** iki gruba** ayrılır. 
 
 **1) AYRIK:** Sonucu tam sayıdır. 
 --> Para atma deneyinde art arda yapılan 5 atışta tura gelme sayısı
