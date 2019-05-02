@@ -13,7 +13,7 @@
 --> Para atma deneyinde art arda yapılan 5 atışta tura gelme sayısı
 --> 1 saat içerisinde bir mağazaya giren kişi sayısı 
 
-**2) SÜREKLİ:** Sonucu sürekli aralıktadır.
+**2) SÜREKLİ:** Sonucu sürekli aralıktadır. 
 --> Bir sınıftaki öğrencilerin boyları ya da kiloları
 --> Atılan topun çıkabildiği yükseklik
 
@@ -33,7 +33,7 @@ Sürekli  bir rasgele değişkenin alabileceği değerlerin sayısı sonsuz, bu 
 
 **Probability Mass Function (Olasılık Kütle Fonksiyonu):**
 
-Olasılık kütle fonksiyonu bir değişkenin olasılığının belli bir değere eşit olduğunu belirten bir fonksiyondur.
+Olasılık kütle fonksiyonu bir değişkenin olasılığının aynı belli bir değere eşit olduğunu belirten bir fonksiyondur.
 
 
 **SORU: İki hilesiz zarın atılması olayında X; atılan iki zardaki sayıların toplamını gösteren rastgele değişkeni olsun. X’in olasılık fonksiyonun bulunuz**
@@ -56,12 +56,15 @@ X rastgele değişkenin alacağı değerler 2,3,...,12 olduğundan X rastgele de
 
 **a)** A-> toplamların 7 olması  ve B-> toplamların 11 olması ise;
 ![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/8.png) 
-
+ 
+ 
 **b)**
 ![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/9.png) 
-
+ 
+ 
 **c)**
-![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/10.png) 
+![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/10.png)  
+
 
 **SORU: 1 ile 9 arasında 30 adet rastgele oluşturulacak sayıların olasılık kütle fonksiyonu**
 
