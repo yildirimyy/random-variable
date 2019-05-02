@@ -54,17 +54,17 @@ X rastgele değişkenin alacağı değerler 2,3,...,12 olduğundan X rastgele de
 
 ![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/7.png) 
 
-**a)** A-> toplamların 7 olması  ve B-> toplamların 11 olması ise;
-![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/8.png) 
- 
- 
-**b)**
-![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/9.png) 
- 
- 
-**c)**
-![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/10.png)  
+**a)** A-> toplamların 7 olması  ve B-> toplamların 11 olması ise; 
 
+![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/8.png)  
+
+**b)** 
+
+![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/9.png)  
+
+**c)** 
+
+![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/10.png) 
 
 **SORU: 1 ile 9 arasında 30 adet rastgele oluşturulacak sayıların olasılık kütle fonksiyonu**
 
