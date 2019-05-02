@@ -7,7 +7,7 @@
     * Doktor sırası bekleyen hastaların bekleme süreleri
     * 1 saat içerisinde bir mağazaya giren kişi sayısı 
 * Rastgele Değişkenler büyük harfler ile gösterilir. 
-* Rastgele Değişkenler **"AYRIK"** ve **"SÜREKLİ"** olmak üzere** iki gruba** ayrılır. 
+* Rastgele Değişkenler **"AYRIK"** ve **"SÜREKLİ"** olmak üzere ** iki gruba** ayrılır. 
 
 **1) AYRIK:** Sonucu tam sayıdır. 
 --> Para atma deneyinde art arda yapılan 5 atışta tura gelme sayısı
@@ -81,10 +81,6 @@ Herbir sayıdan dizide kaç adet geldiği bulunduktan sonra hangi olasılıkla g
 ![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/14.png) 
 
 ```
-![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/kod1.png) 
-
-![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/kod2.png) 
-
 Kaynaklar:
 http://muhserv.atauni.edu.tr/makine/ikaymaz/istatistik/lecture_notes/DERS_5_ANAKUTLE_DAGILIMLARI_I_2015_IKaymaz.pdf
 http://www.baskent.edu.tr/~iserdem/dersler/258/Bolum3_1.pdf
