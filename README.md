@@ -33,7 +33,7 @@ Sürekli  bir rasgele değişkenin alabileceği değerlerin sayısı sonsuz, bu 
 
 **Probability Mass Function (Olasılık Kütle Fonksiyonu):**
 
-Olasılık kütle fonksiyonu bir değişkenin olasılığının aynı belli bir değere eşit olduğunu belirten bir fonksiyondur.
+Olasılık kütle fonksiyonu bir değişkenin olasılığının belli bir değere eşit olduğunu belirten bir fonksiyondur.
 
 
 **SORU: İki hilesiz zarın atılması olayında X; atılan iki zardaki sayıların toplamını gösteren rastgele değişkeni olsun. X’in olasılık fonksiyonun bulunuz**
