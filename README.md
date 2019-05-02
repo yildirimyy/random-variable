@@ -67,7 +67,6 @@ X rastgele değişkenin alacağı değerler 2,3,...,12 olduğundan X rastgele de
 
 **ÇÖZÜM:**
 
-```
 1 ile 9 arasında random üretilen sayıların hangi olasılıkla geleceklerinin bulunabilmesi için öncelikle belli bir sayıdan dizi boyunca kaç adet geldiğinin bulunması gerekmektedir.
 
 ![](https://raw.githubusercontent.com/yildirimyy/random-variable/master/Screen/11.png) 
