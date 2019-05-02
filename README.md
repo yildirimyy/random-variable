@@ -7,13 +7,13 @@
     * Doktor sırası bekleyen hastaların bekleme süreleri
     * 1 saat içerisinde bir mağazaya giren kişi sayısı 
 * Rastgele Değişkenler büyük harfler ile gösterilir. 
-* Rastgele Değişkenler **"AYRIK"** ve **"SÜREKLİ"** olmak üzere ** iki gruba** ayrılır. 
+* Rastgele Değişkenler **"AYRIK"** ve **"SÜREKLİ"** olmak üzere **iki gruba** ayrılır. 
 
 **1) AYRIK:** Sonucu tam sayıdır. 
 --> Para atma deneyinde art arda yapılan 5 atışta tura gelme sayısı
 --> 1 saat içerisinde bir mağazaya giren kişi sayısı 
 
-**2)SÜREKLİ:** Sonucu sürekli aralıktadır. 
+**2) SÜREKLİ:** Sonucu sürekli aralıktadır. 
 --> Bir sınıftaki öğrencilerin boyları ya da kiloları
 --> Atılan topun çıkabildiği yükseklik
 
